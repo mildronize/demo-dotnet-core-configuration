@@ -2,7 +2,7 @@
 
 ```
 dotnet restore
-MyAppSettings__ApplicationName="Minimal API from Env" && dotnet run
+MyAppSettings__ApplicationName="Minimal API from Env" dotnet run
 ```
 
 Enter the following URL in the browser to see the output.
